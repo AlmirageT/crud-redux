@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombreProducto": "Jugo de Zanahoria Gutural",
+      "precioProducto": "800"
+    },
+    {
+      "nombreProducto": "Jugo de Naranja",
+      "precioProducto": "700",
+      "id": 3
+    },
+    {
+      "nombreProducto": "Jugo de Fresa",
+      "precioProducto": "900",
+      "id": 5
+    },
+    {
+      "nombreProducto": "Jugo de Zana",
+      "precioProducto": 800,
+      "id": 6
+    },
+    {
+      "nombreProducto": "Jugo de Zana",
+      "precioProducto": 345,
+      "id": 7
+    },
+    {
+      "nombreProducto": "asdasd",
+      "precioProducto": 32,
+      "id": 8
+    }
+  ]
+}
